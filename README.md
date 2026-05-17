@@ -65,7 +65,6 @@ datasets/
 <p align="center">
   <img src="assets/image/connect.jpeg" width="250"/>
   <img src="assets/image/controls.jpeg" width="250"/>
-  <img src="assets/image/smart-home.jpg" width="250"/>
   <img src="assets/image/icon.jpeg" width="250"/>
 </p>
 ---
