@@ -49,25 +49,25 @@ datasets/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/image/icon.jpeg" width="300"/>
-  <img src="assets/image/Splash.jpeg" width="300"/>
-  <img src="assets/image/login.jpeg" width="300"/>
-  <img src="assets/image/register.jpeg" width="300"/>
+  <img src="assets/image/icon.jpeg" width="250"/>
+  <img src="assets/image/Splash.jpeg" width="250"/>
+  <img src="assets/image/login.jpeg" width="250"/>
+  <img src="assets/image/register.jpeg" width="250"/>
 </p>
-ر<p align="center">
-  <img src="assets/image/PageSensor.jpeg" width="300"/>
-  <img src="assets/image/notifications.jpeg" width="300"/>
-  <img src="assets/image/bigdata.jpeg" width="300"/>
-  <img src="assets/image/chat.jpeg" width="300"/>
 
-</p>
-ر
 <p align="center">
-  <img src="assets/image/connect.jpeg" width="300"/>
-  <img src="assets/image/controls.jpeg" width="300"/>
+  <img src="assets/image/PageSensor.jpeg" width="250"/>
+  <img src="assets/image/notifications.jpeg" width="250"/>
+  <img src="assets/image/bigdata.jpeg" width="250"/>
+  <img src="assets/image/chat.jpeg" width="250"/>
 </p>
 
-
+<p align="center">
+  <img src="assets/image/connect.jpeg" width="250"/>
+  <img src="assets/image/controls.jpeg" width="250"/>
+  <img src="assets/image/smart-home.jpg" width="250"/>
+  <img src="assets/image/icon.jpeg" width="250"/>
+</p>
 ---
 
 ## 🏆 Academic Value
