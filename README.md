@@ -62,7 +62,7 @@ datasets/
 </p>
 
 <p align="center">
-  <img src="assets/image/bigdata.jpeg" width="200" height="400"/>
+  <img src="assets/image/bigdata.jpeg" width="250" height="400"/>
   <img src="assets/image/chat.jpeg" width="200" height="400"/>
   <img src="assets/image/connect.jpeg" width="200" height="400"/>
 </p>
