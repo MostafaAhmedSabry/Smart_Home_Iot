@@ -47,7 +47,6 @@ datasets/
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 <p align="center">
   <img src="assets/image/icon.jpeg" width="200" height="400"/>
