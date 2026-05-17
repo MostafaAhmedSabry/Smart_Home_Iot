@@ -69,7 +69,6 @@ datasets/
 
 <p align="center">
   <img src="assets/image/controls_page.jpeg" width="200" height="400"/>
-  <img src="assets/image/icon.jpeg" width="200" height="400"/>
 </p>
 
 ---
